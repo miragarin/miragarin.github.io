@@ -1,7 +1,17 @@
+/************************
+relevant colors:
+    white = #ffffff
+    black = #000000
+    satin sheen gold = #cba135
+    dark grey = #4e4e4e
+    medium grey= #777777
+
+************************/
+
 body {
-  background-color: #000000;
-  color: #ffffff;
-  font-family: 'Georgia', serif;
+  background-color: #000000; 
+  color: #777777; /*this is the text color*/
+  font-family: 'Beautifully Delicious Script', sanserif;
 }
 
 a {
@@ -10,7 +20,7 @@ a {
 }
 
 a:hover {
-  color: #4e4e4e;
+  color: #cba135;
 }
 
 header, footer {
